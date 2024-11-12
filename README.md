@@ -36,10 +36,6 @@
    }
 
 
-   Run the Application:
-
-    dotnet run
-
 The API will start at http://localhost:5000 by default.
 API Endpoints
 Index Management
